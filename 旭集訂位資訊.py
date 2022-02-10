@@ -1,7 +1,3 @@
-from calendar import c
-from distutils.command.config import config
-from math import fabs
-from ssl import VerifyFlags
 import requests
 import json
 import sys
